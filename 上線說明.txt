@@ -1,0 +1,8 @@
+小店 LINE AI 客服｜銷售頁上線說明
+
+1. 打開 index.html，拉到最下面的 <script>，把 LINKS 裡的三個連結填好：
+   buy     = 購買頁網址（例如 Portaly）
+   demo    = 示範官方帳號的加好友連結（lin.ee/...）
+   install = 預約代安裝的連結（可以填你自己的 LINE 官方帳號）
+2. 整個資料夾上傳到 Vercel：New Project → 拖曳這個資料夾，或推到 GitHub 再匯入。
+3. 影片 demo-*.mp4 和縮圖 demo-*.jpg 要跟 index.html 放在同一層。
